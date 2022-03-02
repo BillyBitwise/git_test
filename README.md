@@ -1,2 +1,3 @@
 # git_test
-line2
+Learn to use branches before Odin can teach me
+This text will not appear in main until Merge?
